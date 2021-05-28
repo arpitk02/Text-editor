@@ -1,1 +1,3 @@
-# text-editor
+# Text Editor
+
+This project “Text Editor” is generally a platform that allows a user to write articles, blogs, journals, books or it can be a program. Text files are different from documents created by WordPad, Word, or some other word processing program. It consists of those features/options which we use in notepad also. With this application, users will be able to create text files, edit simple text files, save that files, they can open existing files also and they will be able to change font, finding text etc. Text files normally have a (.txt) file extension. Notepad is simple to learn but has some features in common with other programs like Wordpad. It is a Graphical User interface (GUI) based editor.
